@@ -1,1 +1,1 @@
-# A Simple Django development test
+# A Simple Django development and deployment test
